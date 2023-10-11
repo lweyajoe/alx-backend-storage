@@ -1,4 +1,4 @@
-# alx-backend-storage
+# 0x00-MySQL_Advanced
 
 # Concepts
 For this project, we expect you to look at this concept:
